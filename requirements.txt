@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain_google_genai
+langchain_core
+chromadb
+beautifulsoup4
+langchain_community
