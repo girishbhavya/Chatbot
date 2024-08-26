@@ -20,7 +20,7 @@ load_dotenv()
 
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
-##function to get vector
+
 def get_vectorstore_from_url(url):
     # get the text in document form
     loader = WebBaseLoader(url)
